@@ -6,6 +6,7 @@ PM2: Node.js Uygulamalarınızı Yönetmek İçin Güçlü Bir Araç
 PM2, Node.js uygulamalarınızı kolayca yönetmek ve işletmek için kullanabileceğiniz güçlü bir araçtır. İşte PM2 modülünde bulunan bazı önemli komutlar ve nasıl kullanıldıkları:
 
 **Pm2 Komutları**
+
 ・ Başlatma Komutu:
  `pm2 start app.js`
  
