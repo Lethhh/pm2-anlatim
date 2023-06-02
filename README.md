@@ -52,4 +52,4 @@ PM2, Node.js uygulamalarınızı kolayca yönetmek ve güvenilir bir şekilde i�
 
 [![Discord Banner](https://api.weblutions.com/discord/invite/luppux/)](https://discord.gg/luppux)
 <br> </br>
-<a href="[https://bmc.link/Naplesbot]" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a>
+<a href="https://www.buymeacoffee.com/Naplesbot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a>
